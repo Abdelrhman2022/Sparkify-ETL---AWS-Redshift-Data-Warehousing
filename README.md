@@ -81,7 +81,7 @@ Findings:
 
 ---
 
-## HOWTO use
+## HOW TO use
 
 **Project has two scripts:**
 
